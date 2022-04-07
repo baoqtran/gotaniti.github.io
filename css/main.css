@@ -1,0 +1,29 @@
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+
+.card-image img {
+    filter: brightness(70%);
+}
+
+.slides img {
+    filter: brightness(50%);
+}
+
+hr {
+    height: 1.7px;
+    border: none;
+    background-color: silver;
+}
+
+.imageresize img {
+    max-height: 350px;
+    min-width: 300px;
+}
